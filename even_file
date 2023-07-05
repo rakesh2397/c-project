@@ -1,0 +1,14 @@
+2.
+4.if [ $1 -gt $2 ]
+6.echo "$1 is big"
+8.echo "$2 is big"
+2.
+4.if [ $1 -gt $2 ]
+6.echo "$1 is big"
+8.echo "$2 is big"
+2.git and git hub are about to start in comming days
+4.next week onwords jenkins i thinkthis is master class of linux
+6.we are need work upon linux commands more
+8.this is master class of linux
+10.we are need work upon linux commands more
+12.
